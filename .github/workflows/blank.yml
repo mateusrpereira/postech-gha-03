@@ -1,0 +1,30 @@
+# Definindo o nome do Workflow
+name: Test Workflow
+
+# Definindo quando o Workflow será disparado
+on:
+  push:
+    branches: [ main, developer ]
+
+#Definindo os jobs que o workflow executará
+jobs:
+  test_job:
+    name: Executando o Job de Teste
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step 1
+        uses: actions/checkout@v2
+        
+      - name: Docker Login
+        uses: docker/login-action@v3.0.0
+        with:
+          username: 'mateusrpereira'
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          
+      - name: Build and push Docker images
+        uses: docker/build-push-action@v5.1.0
+        with:
+          context: .
+          tags: 'mateusrpereira/postech-ghactions:latest'
+          push: true
+          
