@@ -25,6 +25,6 @@ jobs:
         uses: docker/build-push-action@v5.1.0
         with:
           context: .
-          tags: 'latest'
+          tags: 'mateusrpereira/postech-ghactions:latest'
           push: true
           
