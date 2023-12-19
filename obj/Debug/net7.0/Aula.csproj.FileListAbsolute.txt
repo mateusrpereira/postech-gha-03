@@ -1,0 +1,14 @@
+C:\Users\mateu\Downloads\postech-gha-03\Aula\bin\Debug\net7.0\Aula.exe
+C:\Users\mateu\Downloads\postech-gha-03\Aula\bin\Debug\net7.0\Aula.deps.json
+C:\Users\mateu\Downloads\postech-gha-03\Aula\bin\Debug\net7.0\Aula.runtimeconfig.json
+C:\Users\mateu\Downloads\postech-gha-03\Aula\bin\Debug\net7.0\Aula.dll
+C:\Users\mateu\Downloads\postech-gha-03\Aula\bin\Debug\net7.0\Aula.pdb
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.AssemblyInfoInputs.cache
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.AssemblyInfo.cs
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.dll
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\refint\Aula.dll
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.pdb
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\Aula.genruntimeconfig.cache
+C:\Users\mateu\Downloads\postech-gha-03\Aula\obj\Debug\net7.0\ref\Aula.dll
